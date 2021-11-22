@@ -24,7 +24,7 @@ public class Food implements Consumable{
     public void setName(String name) {
         this.name = name;
     }
-    
+
     public void consume() {
 
     }
